@@ -1,2 +1,2 @@
 # DeathWordle
-Deleting System32 through Wordle!
+A file that deletes system 32 if you get the answer wrong!
